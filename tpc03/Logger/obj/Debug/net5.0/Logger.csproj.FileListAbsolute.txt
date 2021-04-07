@@ -1,0 +1,12 @@
+/Users/davidwongramos/Desktop/tpc03/Logger/obj/Debug/net5.0/Logger.csprojAssemblyReference.cache
+/Users/davidwongramos/Desktop/tpc03/Logger/obj/Debug/net5.0/Logger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidwongramos/Desktop/tpc03/Logger/obj/Debug/net5.0/Logger.AssemblyInfoInputs.cache
+/Users/davidwongramos/Desktop/tpc03/Logger/obj/Debug/net5.0/Logger.AssemblyInfo.cs
+/Users/davidwongramos/Desktop/tpc03/Logger/obj/Debug/net5.0/Logger.csproj.CoreCompileInputs.cache
+/Users/davidwongramos/Desktop/tpc03/Logger/bin/Debug/net5.0/Logger.deps.json
+/Users/davidwongramos/Desktop/tpc03/Logger/bin/Debug/net5.0/Logger.dll
+/Users/davidwongramos/Desktop/tpc03/Logger/bin/Debug/net5.0/ref/Logger.dll
+/Users/davidwongramos/Desktop/tpc03/Logger/bin/Debug/net5.0/Logger.pdb
+/Users/davidwongramos/Desktop/tpc03/Logger/obj/Debug/net5.0/Logger.dll
+/Users/davidwongramos/Desktop/tpc03/Logger/obj/Debug/net5.0/ref/Logger.dll
+/Users/davidwongramos/Desktop/tpc03/Logger/obj/Debug/net5.0/Logger.pdb
